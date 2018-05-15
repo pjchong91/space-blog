@@ -14,7 +14,7 @@
     <header>
         <h1> Space Blog </h1>
         <p>All things space, all the time.</p>
-    </header>
+  
 
 
 
